@@ -1,1 +1,1 @@
-## **Predicting BTC price with LSTMs
+## **Predicting BTC price with LSTMs**
